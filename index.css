@@ -372,6 +372,7 @@ width: 218px;
 height: 58px;
 left: 115px;
 top: 332px;
+  text-decoration:none;
 
 background: #EA9212;
 border-radius: 5px;
@@ -392,7 +393,7 @@ color: white;
     height: 58px;
     left: 365px;
     top: 332px;
-    
+    text-decoration:none;
     border: 1px solid #005DF2;
     border-radius: 5px;
 
